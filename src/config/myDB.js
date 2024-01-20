@@ -1,10 +1,17 @@
 const projectDB = [
   {
     id: 1,
-    ytLink: "",
+    ytLink: "https://www.youtube.com/embed/n9q8QDcBsO0?si=EPz7dFXsA9ZBBueo",
     link: "https://github.com/parshuramkalunkhe/mangashop",
-    title: "mangashop",
-    desc: "Under Construction.",
+    title: "MangaShop - (Under Construction)",
+    desc: "This is console appication build in java. It is an ecommerce app which is under construction.",
+  },
+  {
+	id: 2,
+	ytLink: "https://www.youtube.com/embed/RH4BRxHRcJw?si=xVvePIa-JZRzpnX8",
+	link: "https://github.com/parshuramkalunkhe/tictactoe",
+	title: "TicTacToe Game",
+	desc: "This is console based game.",
   },
 ]
 
