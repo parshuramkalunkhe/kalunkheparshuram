@@ -1,6 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 const projectCard = (props) => {
+
     return (
         <>
             <div class="card my-3 mx-3" >
@@ -16,7 +17,6 @@ const projectCard = (props) => {
                     </div>
                 </div>
             </div>
-            <hr />
         </>
     )
 }

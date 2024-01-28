@@ -8,7 +8,7 @@ const projectDB = [
   },
   {
 	id: 2,
-	ytLink: "https://www.youtube.com/embed/RH4BRxHRcJw?si=xVvePIa-JZRzpnX8",
+	ytLink: "https://www.youtube.com/embed/a5RE_18z1jw?si=iROe1pb5rcUcpaUA",
 	link: "https://github.com/parshuramkalunkhe/tictactoe",
 	title: "TicTacToe Game",
 	desc: "This is console based game.",
