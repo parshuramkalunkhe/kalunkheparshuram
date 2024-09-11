@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter , Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 import Home from './views/Home';
 import About from './views/About';
@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <Header />
         <main>
           <Routes>
@@ -46,7 +46,7 @@ function App() {
           </Routes>
         </main>
         <Footer year={year} />
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }
