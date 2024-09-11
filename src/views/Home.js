@@ -45,7 +45,7 @@ const Home = () => {
                         <a href="#kalunkheparshuram@gmail.com" onClick={handleEmail} id='email' > Get in touch </a>
                         {showPopup && (
                             <div className="popup">
-                                <p>Downloaded sucessfully.</p>
+                                <p>Download started.</p>
                             </div>
                         )}
                         {emailPopup && (
@@ -55,7 +55,10 @@ const Home = () => {
                         )}
                     </div>
                     <blockquote>
-                        A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are.
+                        A bug is never just a mistake. <br />
+                        It represents something bigger.  <br />
+                        An error of thinking <br />
+                        that makes you who you are.
                     </blockquote>
                     <div>
                         <p><b>About this site</b></p>

@@ -8,8 +8,9 @@ const Header = () => {
         <header id="header">
             <section className="w60">
                 <img srcSet={tuxDevil} alt="" />
-                <blockquote><b>parshuram kalunkhe</b> - <span>Software Engineer.</span></blockquote>
+                <p><b>parshuram kalunkhe</b> - <span>Engineer.</span></p>
             </section>
+            <hr />
             <section id="navbar">
                 <nav>
                     <Link to='/'>

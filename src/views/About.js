@@ -9,7 +9,7 @@ const About = () => {
       <div>
         <p>
           Hi There! I'm Parshuram Kalunkhe and Graduated in Bachelor of Science in Information Technology.
-          I'm Software Engineer by profession and I love linux and computers.
+          I'm Engineer by profession and I love linux and computers.
         </p>
         <p className='keypoint'>- <i>key points <b>about me</b>.</i></p>
         <ul style={{margin: "0", paddingLeft: "2.5rem"}}>
